@@ -43,3 +43,5 @@ captures/
 *.json
 .idea
 
+
+gradle.properties
